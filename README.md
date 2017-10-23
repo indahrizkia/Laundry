@@ -1,5 +1,5 @@
 # Laundry
 INPUT OUTPUT 
-![Screenshot](laundry.png)
+![Screenshot](laund.png)
 HAPUS
-![Screenshot](hapus.png)
+![Screenshot](hps.png)
